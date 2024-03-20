@@ -13,7 +13,8 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-    "colorama>=0.4.3"
+    "colorama>=0.4.3",
+    "SQLAlchemy==1.2.17"
 ]
 
 [project.scripts]
